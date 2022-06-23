@@ -1,0 +1,1 @@
+python-3.8.10-amd64 SimpleInstall=1 PrependPath=1 SimpleInstallDescription="Simple Python Instalation"
