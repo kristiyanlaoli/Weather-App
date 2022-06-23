@@ -1,2 +1,2 @@
 # Weather-App
-It is a simple app which i have made by python.
+It is a simple app that i have made by python.
